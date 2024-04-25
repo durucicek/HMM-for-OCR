@@ -1,6 +1,6 @@
 # HMM-for-OCR
 Finding the most likely character sequence via a 1st order Hidden Markov Model, using optical sensor outputs.
-This was an homework for the CENG461 Artificial Intelligence course.
+This was an homework for the CENG461 Artificial Intelligence course (12.2023).
 
 
 The objective is to find the most likely character sequence via a 1st order Hidden Markov Model (HMM), using the optical sensor outputs as the observable and the actual letters as hidden states. 
